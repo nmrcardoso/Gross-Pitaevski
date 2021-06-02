@@ -11,4 +11,4 @@ Needs:
 - g++
 - gnuplot(optional)
 
-!gross_256x256_49.989.png
+![Gross-Pitaevski screenshot](https://github.com/nmrcardoso/Gross-Pitaevski/blob/main/gross_256x256_49.989.png)
