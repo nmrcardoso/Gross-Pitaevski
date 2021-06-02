@@ -10,3 +10,5 @@ Needs:
 - CUDA
 - g++
 - gnuplot(optional)
+
+!gross_256x256_49.989.png
