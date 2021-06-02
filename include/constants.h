@@ -17,6 +17,7 @@
 
 #define WARP_SIZE 32
 
+#define  MAXBLOCKDIMX 1024
 
 
 Verbosity getVerbosity();
